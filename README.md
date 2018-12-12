@@ -37,6 +37,11 @@ vw : 最终在实际的设备中的位置
 
 适配后的图片如下:  
 
+<image >
+
+nexus pxixel 宽:1080 高 1920 density 3.0
+![Aaron Swartz](https://github.com/luili16/FlutterScreenAdaptor/raw/master/pixel_1080_1920_3.png)nexus 6p 宽:1440 高 2560 density 3.5  
+![Aaron Swartz](https://github.com/luili16/FlutterScreenAdaptor/raw/master/nexus_6p_1440_2560_3.5.png)  
 
 
 
